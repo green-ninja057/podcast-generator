@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator green-ninja-057"
 author: "James Harper"
 description: "Genrates a feed for a podcast from a YAML file"
 runs:
