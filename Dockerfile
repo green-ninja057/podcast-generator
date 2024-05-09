@@ -4,7 +4,6 @@ RUN apt-get update && \
     apt-get install -y git python3-yaml && \
     apt-get install -y git python3-pip && \
     apt-get clean
-    git
   
 RUN pip3 install PyYAML 
 
